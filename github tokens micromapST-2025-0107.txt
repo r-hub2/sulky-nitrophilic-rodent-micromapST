@@ -1,0 +1,63 @@
+
+fine_grained tokens
+
+git personal access token
+
+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
+
+expires = April 8, 2025
+
+b4000b76-a7c9-4de8-a62d-8fff809b6957
+
+keyed to micromapST
+git
+
+
+token (Classic)
+
+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 
+
+
+Github Account:
+
+jpearson0525@gmail.com	Lindapw8
+
+
+micromapST is the Github repository.
+
+PAT is listed above. 
+
+
+QNAP cloud Key
+
+StatNet-00	TS-251+	SN;Q176B04676			MAC:24-5E-BE-12-9A-EF	Cloud Key:Q65463084	admin/
+	2 - HDD 18TBs    8GB ram
+
+StatNet-01	TS-431+	SN:Q155B11467	8181	8143	MAC:00-08-9B-EA-E8-CF	Cloud Key:Q82321035	jpearson/     admin/Lindawp8
+	4 - HDD 4TBs	1 GB Ram
+
+StatNet-02      TS-451	SN:Q161B04466	8282	8243	MAC:00-08-9B-F7-B7-05   Cloud Key:Q75994473     jpearson/     admin/Lindawp8#                         
+	4 - HDD 16TBs Thin at limit.   50% full.   8 gb Ram
+
+StatNet-03      TS-453Be SN:Q195B05483	8383	8343	MAC:24-5E-BE-31-5A-10   Cloud Key:Q55966704	jpearson/
+	4 - HDD 16TBs thick at limit.	76% used.    8 GB Ram
+	
+StatNet-04	TS-251+ SN:Q17BB16559	8484	8443	MAC:24-5E-BE-15-09-89	Cloud Key:Q66527792	jpearson/
+	2 - HDD 10TBs -> move to Statnet-01 and expand with 2 more to 10TBs drives.   8 GB Ram
+	
+	
+	
+All are QTS 5.2.2.2950 releases.
+
+
+
+
+$ 20.00 each  # P5JGYJ
+
+LUV $ 100 - Jim   - 9182 4702 7313 5307
+
+LUV $ 100 - Linda - 9182 4702 7313 8707
+
+
+
+HBS 3 - Rsync Server  - rsync/LindaRsync
