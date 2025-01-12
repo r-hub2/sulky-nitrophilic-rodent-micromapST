@@ -54,8 +54,9 @@ LazyData: no
 LazyLoad: no
 BuildResaveData: best
 ByteCompile: yes
+Config/build/clean-inst-doc: FALSE
 NeedsCompilation: no
-Packaged: 2025-01-12 03:24:09 UTC; jpear
+Packaged: 2025-01-12 14:32:15 UTC; jpear
 Repository: CRAN
 Date/Publication: 2025-01-07 02:50:02 UTC
 RoxygenNote: 7.2.3
