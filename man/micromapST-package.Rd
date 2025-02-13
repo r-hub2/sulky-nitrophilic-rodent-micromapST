@@ -14,8 +14,8 @@
     \tabular{ll}{
       Package:  \tab micromapST\cr
       Type:     \tab Package\cr
-      Version:  \tab 3.0.5\cr
-      Date:     \tab 2025-01-07\cr
+      Version:  \tab 3.1.0\cr
+      Date:     \tab 2025-02-13\cr
       License:  \tab GPL-2\cr
       LazyLoad: \tab no\cr
     } 
@@ -231,6 +231,9 @@ its usable for your application and is valid.
 With the announcement of the support retirement of maptools, rgeos, 
 rgdal, and effectively sp and spdep, this package had to be upgraded 
 to continue to be useful by it's users. V3.0.0 completes that enhancement.
+
+The newest features in the option to create a LOWESS line based on the data
+in the ScatDot plot glyphic. 
 }
 
 \author{

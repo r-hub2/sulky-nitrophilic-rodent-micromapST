@@ -1,6 +1,6 @@
 #
 #  micromapST - 
-#  Updated: January 6, 2025 by Jim Pearson
+#  Updated: February 13, 2025 by Jim Pearson
 #
 #  discussion points:  not all border groups have abbreviations or IDs.  Names yes, but need to 
 #       handle the value inputed by the user and link data to boundaries. May be needed
@@ -779,6 +779,7 @@
 #           of out the US 51 areas.
 #  2024-1219 - continued testing of all call parameters values to make sure the validity
 #           checking is accurate for all each.
+#  2025-0213 - Could not get RHUB working to test package, updated dates in documentation and released.
 #                      - 
 #
 #  Best way to build panelDesc and add parm enties is to use the normal technique of 
@@ -1554,7 +1555,7 @@ micromapSEER <- function(statsDFrame,panelDesc,...) {
 #
 #   Get micromapST Version
 #
-micromapST.Version <- function() { return ("micromapST V3.0.5 built 2025-01-07 10:14 am") }
+micromapST.Version <- function() { return ("micromapST V3.1.0 built 2025-02-13 04:12 pm") }
 
 #
 ####
